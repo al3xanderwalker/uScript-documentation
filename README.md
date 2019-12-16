@@ -10,7 +10,7 @@ description: How to install the uScript Loader
 
   > Discord: [https://discord.gg/MNUgZkr](https://discord.gg/MNUgZkr)
 
-* Extract the zip file. EPIC
+* Extract the zip file.
 * Add the plugin \(uScriptLoader.dll\) to your Rocket\Plugins directory.
 * Restart your server.
 * Do the command /script to check the loader installed correctly 
