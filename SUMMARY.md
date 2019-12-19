@@ -5,6 +5,8 @@
 
 ## Examples
 
+* [Functions](examples/functions/README.md)
+  * [Nearest Location](examples/functions/nearest-location.md)
 * [Teleportation](examples/teleportation/README.md)
   * [Basic /tp Command](examples/teleportation/basic-tp-command.md)
   * [Basic /tpa command](examples/teleportation/basic-tpa-command.md)

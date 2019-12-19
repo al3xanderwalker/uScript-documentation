@@ -4,8 +4,6 @@ description: How to install the uScript Loader
 
 # Installation
 
-
-
 * Download uScriptLoader.zip from the \#loader-download channel in discord.
 
   > Discord: [https://discord.gg/MNUgZkr](https://discord.gg/MNUgZkr)
