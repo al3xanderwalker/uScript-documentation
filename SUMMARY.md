@@ -214,3 +214,9 @@
 * [Functions](vehiclemanager/functions/README.md)
   * [spawnVehicle](vehiclemanager/functions/spawnvehicle.md)
 
+## wait
+
+* [Functions](wait/functions/README.md)
+  * [minutes](wait/functions/minutes.md)
+  * [seconds](wait/functions/seconds.md)
+
