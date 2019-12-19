@@ -8,7 +8,7 @@ description: Tells the player the nearest location of the target player after 2 
 
 ```css
 command getNearest(target){ // Declares the command 'getNearest' and its parameters 'target'
-    permission = "getNearest";
+    permission = "getNearest"; // Makes the command require the 'getNearest' Permission
     execute(){ // This code will be ran if the player has permissions
         target = toPlayer(target); // sets the target variable to the player specified 
         wait.seconds(120, waitLocation(player, target)); // waits 120 seconds(2 Minutes) then calls the function waitLocation with the parameters 'player' as the caller and 'target' as the target
