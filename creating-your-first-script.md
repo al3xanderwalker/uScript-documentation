@@ -31,7 +31,7 @@ command ping(){
 * Test your script! Use the command /ping and see if you are messaged Pong! if so then you have created your first script!
 * If you got messaged Command not found then try completing the process again or ask for help in the uScript discord!
 
-> #### Discord: [https://discord.gg/MNUgZkr](https://discord.gg/MNUgZkr)
+> #### Discord Link: [https://discord.gg/MNUgZkr](https://discord.gg/MNUgZkr)
 
 
 
