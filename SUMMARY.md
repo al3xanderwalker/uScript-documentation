@@ -219,4 +219,5 @@
 * [Functions](wait/functions/README.md)
   * [minutes](wait/functions/minutes.md)
   * [seconds](wait/functions/seconds.md)
+* [test](test.md)
 
