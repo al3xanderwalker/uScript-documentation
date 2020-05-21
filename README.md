@@ -10,6 +10,6 @@ description: How to install the uScript Loader
 
 * Extract the zip file.
 * Add the plugin \(uScriptLoader.dll\) to your Rocket\Plugins directory.
-* Restart your server or reload Rocket.
-* Perform the command /script to ensure the plugin installed correctly 
+* Restart your server or reload Rocket via ``/rocket reload``.
+* Perform the command ``/script`` to ensure the plugin installed correctly 
 
