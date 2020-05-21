@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sends a message to a specified discord channel when a player is kicked,
+  Sends a message to a specified Discord channel when a player is kicked,
   including the information on who executed the command, the player kicked and
   the reason for them being kicked.
 ---
