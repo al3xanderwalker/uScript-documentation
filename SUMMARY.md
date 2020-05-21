@@ -9,9 +9,9 @@
   * [Nearest Location](examples/functions/nearest-location.md)
 * [Teleportation](examples/teleportation/README.md)
   * [Basic /tp Command](examples/teleportation/basic-tp-command.md)
-  * [Basic /tpa command](examples/teleportation/basic-tpa-command.md)
+  * [Basic /tpa Command](examples/teleportation/basic-tpa-command.md)
 * [Webhooks](examples/webhooks/README.md)
-  * [Kick player message to discord](examples/webhooks/kick-player-message-to-discord.md)
+  * [Kick Player Message to Discord](examples/webhooks/kick-player-message-to-discord.md)
 
 ## Player <a id="player-1"></a>
 
